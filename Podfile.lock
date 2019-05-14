@@ -29,6 +29,16 @@ DEPENDENCIES:
   - Reachability (~> 3.1.1)
   - Specta (~> 0.2.1)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaLumberjack
+    - DTCoreText
+    - DTFoundation
+    - Expecta
+    - OCMock
+    - Reachability
+    - Specta
+
 SPEC CHECKSUMS:
   CocoaLumberjack: a2213b8410917a1a5ecfc5c63a4206edc24d3a5b
   DTCoreText: 934a16fe9ffdd169c96261721b39dc312b75713d
@@ -40,4 +50,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 855bb3ed515ace10125c4ca9049e44283db88515
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.5.3
